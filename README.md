@@ -1,4 +1,5 @@
 # Logo Detection API
+¬
 
 API para detección de logos en imágenes y videos usando YOLO y FastAPI, con almacenamiento en Supabase.
 
